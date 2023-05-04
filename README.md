@@ -1,15 +1,3 @@
-<style>
-    .toc-div {
-        padding: 10px 25px;
-
-        margin-bottom: 50px;
-    }
-
-    .toc-list {
-        padding-left: 0px;
-    }
-</style>
-
 # Nana and Popo - Decloned and Ready for Battle!
 
 <div class="toc-div" style="display:inline-block;border:1px solid;">
