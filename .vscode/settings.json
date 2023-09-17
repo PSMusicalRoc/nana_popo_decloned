@@ -19,6 +19,6 @@
         "RUSTFLAGS": "--cfg skyline_std_v3"
     },
     "rust-analyzer.linkedProjects": [
-        ".\\Cargo.toml"
+        "./Cargo.toml"
     ]
 }
